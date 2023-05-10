@@ -1,5 +1,7 @@
 # civetapp-dot-com
 
+A multi-tenant app for creating communities.
+
 ## Build Setup
 
 ```bash
